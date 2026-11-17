@@ -1,0 +1,12 @@
+window system: xorg-server + xinit
+wm: dwm
+term: st
+file: pcmanfm
+wp: xwallpaper
+sound: pipewire + wireplumber + pipewire-pulse
+compositor: xcompmgr
+bar: slstatus
+printer: cups + ghostscript + brlaser
+office: libreoffice
+menu: dmenu
+browser: helium
